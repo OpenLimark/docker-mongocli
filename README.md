@@ -1,2 +1,2 @@
 # docker-mongocli
-A base Docker image for serving MongoDB CLI tools
+This is a base Docker image for serving MongoDB CLI tools
